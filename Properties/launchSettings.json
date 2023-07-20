@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Telegram.Bot.Examples.Polling": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
